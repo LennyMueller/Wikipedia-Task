@@ -26,7 +26,8 @@ header {
 
 aside {
     grid-area: sidebar;
-    background-color: #f6f6f6;
+    background: rgb(246,246,246);
+    background: linear-gradient(0deg, rgba(246,246,246,1) 0%, rgba(246,246,246,1) 90%, rgba(255,255,255,1) 100%);
     padding-left: 20pt;
     padding-right: 14pt;
 }
