@@ -7,7 +7,6 @@
 html, body {
     width: 100vw;
     height: 100vh;
-    overflow-x: hidden;
     display: grid;
     grid-template-columns: 176px 1fr;
     grid-template-rows: fit-content 1fr min-content;
